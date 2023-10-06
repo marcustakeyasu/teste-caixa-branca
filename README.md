@@ -28,3 +28,10 @@ Não há tratamento explícito para possíveis alternativas, como NullPointerExc
 
 ## 6. Falta de fechamento de conexões
 Não há evidência de fechamento adequado das conexões com o banco de dados. É fundamental garantir que as conexões com o banco de dados sejam devidamente fechadas para evitar vazamentos de recursos.
+
+# Teste de Caixa Branca (Etapa 2)
+## Grafo de Fluxo
+![grafo-fluxo](https://github.com/marcustakeyasu/teste-caixa-branca/assets/116593545/a4841612-139b-4170-9500-8e437fb3e51d)
+
+## Cálculo Complexidade Ciclomática
+![complexidade-ciclomatica](https://github.com/marcustakeyasu/teste-caixa-branca/assets/116593545/e1f85125-b6ef-4c3e-938c-5ffea8784694)
