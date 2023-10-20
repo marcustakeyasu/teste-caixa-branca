@@ -38,3 +38,36 @@ Não há evidência de fechamento adequado das conexões com o banco de dados. �
 
 ## Todas as sequências
 ![sequencias](https://github.com/marcustakeyasu/teste-caixa-branca/assets/116593545/06ae5821-beca-4aac-a82e-329b749ff71f)
+
+# Teste de Caixa Branca (Etapa 3)
+
+## Descrição
+
+Este repositório contém um projeto de teste de caixa branca, parte de um estudo na disciplina de Qualidade de Software. O objetivo do projeto é analisar um código-fonte específico, identificando erros, calculando a complexidade ciclomática e documentando o código.
+
+## Funcionalidades
+
+- Análise de código-fonte em busca de erros.
+- Criação de um grafo de fluxo.
+- Cálculo da complexidade ciclomática.
+- Documentação do código.
+
+## Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+- `src/` - Contém o código-fonte a ser analisado.
+- `docs/` - Contém documentação relacionada ao projeto.
+- `README.md`: Este arquivo, fornecendo uma visão geral do repositório.
+
+## Uso
+
+Para realizar a análise de código e as etapas do projeto:
+
+1. Abra o código-fonte localizado na pasta `src/`.
+2. Realize a análise de código em busca de erros.
+3. Crie um grafo de fluxo do código.
+4. Calcule a complexidade ciclomática.
+5. Documente o código e armazene os documentos na pasta `docs/`.
+
+
